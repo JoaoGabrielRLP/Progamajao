@@ -1,0 +1,162 @@
+#foto{
+	background:url(../imagens/fundo.jpg);
+	position: relative;
+	height: 900px;
+	opacity: 0.9;
+	background-repeat: no-repeat;
+	background-size: cover;
+	background-position: center;
+	background-attachment: fixed;
+	width: 100%;
+	
+
+}
+.espaco-titulo{
+	position: absolute;
+	left: 0;
+	top: 45%;
+	width: 100%;
+	text-align: center;
+}
+
+.espaco-titulo span.titulo{
+	color: #000000;
+	padding: 18px;
+	font-size: 25px;
+	letter-spacing: 5px;
+	text-transform: uppercase;
+}
+/*Fim do Parallax da home*/
+
+/*Parallax do sobre*/
+
+#foto-sobre{
+	background:url(../imagens/fundo1.jpg);
+	position: relative;
+	height: 900px;
+	opacity: 0.9;
+	background-repeat: no-repeat;
+	background-size: cover;
+	background-position: center;
+	background-attachment: fixed;
+	width: 100%;
+	
+
+}
+.espaco-sobre{
+	position: absolute;
+	left: 0;
+	top: 45%;
+	width: 100%;
+	text-align: center;
+}
+
+.espaco-sobre span.titulo-sobre{
+	color: #000000;
+	padding: 18px;
+	font-size: 25px;
+	letter-spacing: 5px;
+	text-transform: uppercase;
+}
+
+
+/*Fim do Parallax do sobre*/
+
+/*Parallax hardware*/
+#foto-hardware{
+	background:url(../imagens/core.jpg);
+	position: relative;
+	height: 600px;
+	opacity: 0.9;
+	background-repeat: no-repeat;
+	background-size: cover;
+	background-position: center;
+	background-attachment: fixed;
+	width: 100%;
+	
+
+}
+.espaco-hardware{
+	position: absolute;
+	left: 0;
+	top: 45%;
+	width: 100%;
+	text-align: center;
+}
+
+.espaco-hardware span.titulo-hardware{
+	color: #000000;
+	padding: 18px;
+	font-size: 25px;
+	letter-spacing: 5px;
+	text-transform: uppercase;
+}
+/*Parallax hardware*/
+
+/*Parallax hardware*/
+#foto-acessorios{
+	background:url(../imagens/acessorios.jpg);
+	position: relative;
+	height: 600px;
+	opacity: 0.9;
+	background-repeat: no-repeat;
+	background-size: cover;
+	background-position: center;
+	background-attachment: fixed;
+	width: 100%;
+	
+
+}
+.espaco-acessorios{
+	position: absolute;
+	left: 0;
+	top: 45%;
+	width: 100%;
+	text-align: center;
+}
+
+.espaco-acessorios span.titulo-acessorios{
+	color: #000000;
+	padding: 18px;
+	font-size: 25px;
+	letter-spacing: 5px;
+	text-transform: uppercase;
+}
+
+/*Parallax hardware*/
+
+/*Parallax monte.html*/
+#foto-monte{
+	background:url(../imagens/board.jpg);
+	position: relative;
+	height: 600px;
+	opacity: 0.9;
+	background-repeat: no-repeat;
+	background-size: cover;
+	background-position: center;
+	background-attachment: fixed;
+	width: 100%;
+	
+
+}
+.espaco-monte{
+	position: absolute;
+	left: 0;
+	top: 45%;
+	width: 100%;
+	text-align: center;
+}
+
+.espaco-monte span.titulo-monte{
+	color: #000000;
+	padding: 18px;
+	font-size: 25px;
+	letter-spacing: 5px;
+	text-transform: uppercase;
+}
+
+
+
+
+
+/*Parallax monte.html*/
